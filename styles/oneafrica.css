@@ -17,6 +17,16 @@ p
 	word-spacing: 5px;
 }
 
+h5 {
+	padding-left: 3em; 
+	padding-right: 3em;
+	font-family: 'Acme', sans-serif;
+	font-size: 25px;
+	color: navy;
+	word-spacing: 5px;
+	text-align: center;
+}
+	
 h4 {padding-left: .1em; 
 	padding-right: .1em;
 	font-family: 'Roboto Mono', monospace;
@@ -115,7 +125,7 @@ a {
 
 .active { 
 	background-color: black; 
-	border-radius: 12px;
+	border-radius: 50px;
 }
 
 nav a:link { color: yellow;}
